@@ -1,11 +1,15 @@
 # UK Railway Transportation Analysis
+![](UK_Railway.jpg)
 
+***
 ## Introduction
 The UK Railway Transportation Analysis project aims to provide insights into various aspects of railway operations, including revenue, trip performance, customer behavior, and more. By leveraging Power BI and DAX (Data Analysis Expressions), this project presents a detailed analysis to help stakeholders make informed decisions.
 
+***
 ## Problem Statement
 The UK Railway Transportation system faces challenges in optimizing revenue, managing customer satisfaction, ensuring on-time arrivals, and balancing the load across different routes and times. This project seeks to address these issues by providing actionable insights based on comprehensive data analysis.
 
+***
 ## Project Scope
 
 ### 1. Total Revenue Analysis
@@ -135,6 +139,11 @@ SUMMARIZE(
 )
 ```
 
+***
+## Dashboard
+![](Dashboard.png)
+
+***
 ## Recommendations
 
 1. **Improve Morning Services**:
@@ -153,5 +162,5 @@ SUMMARIZE(
 5. **Product Unit Price Analysis**:
    - Analyze and adjust prices to optimize sales without compromising profit margins.
 
-
-
+***
+Thank you for taking the time to explore this project. Your interest and attention are genuinely appreciated. If you have any contributions or suggestions, I welcome the opportunity to connect and discuss any ideas you may have. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bestman-peter/). I would love to engage in a conversation and hear your thoughts. Looking forward to connecting!
